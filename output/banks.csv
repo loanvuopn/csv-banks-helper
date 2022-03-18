@@ -1,0 +1,193 @@
+name,name_kana,bank_code,icon_uri,service_type,opened_at,closed_at,order,kana_order,bank_display_location
+みずほ銀行,ミズホギンコウ,0001,assets/bankpay_bank_logo/0001-mizuho.png,bankpay,,,3,マ行,bankHeader
+三井住友銀行,ミツイスミトモギンコウ,0009,assets/bank_logo/0009-smbc.png,"ginkopay,bankpay",,,1,マ行,bankHeader
+三菱ＵＦＪ銀行,ミツビシユーエフジェイギンコウ,0005,assets/bankpay_bank_logo/0005-mufg.png,bankpay,,,2,マ行,bankHeader
+ゆうちょ銀行,ユウチョギンコウ,9900,assets/bank_logo/9900-yucho.png,ginkopay,,,4,ヤ行,bankHeader
+足利銀行,アシカガギンコウ,0129,assets/bankpay_bank_logo/0129-ashikaga.png,bankpay,2022-03-22 13:00:00,,4,ア行,bankKana
+阿波銀行,アワギンコウ,0172,assets/bankpay_bank_logo/0172-awa.png,bankpay,,,5,ア行,bankKana
+伊予銀行,イヨギンコウ,0174,assets/bankpay_bank_logo/0174-iyo.png,bankpay,,,8,ア行,bankKana
+岩手銀行,イワテギンコウ,0123,assets/bankpay_bank_logo/0123-iwate.png,bankpay,,,10,ア行,bankKana
+愛媛銀行,エヒメギンコウ,0576,assets/bankpay_bank_logo/0576-ehime.png,bankpay,2021-11-15 11:00:00,,11,ア行,bankKana
+大垣共立銀行,オオガキキョウリツギンコウ,0152,assets/bankpay_bank_logo/0152-okb.png,bankpay,2022-03-22 13:00:00,,13,ア行,bankKana
+沖縄銀行,オキナワギンコウ,0188,assets/bank_logo/0188-okinawa.png,ginkopay,2022-03-22 13:00:00,,14,ア行,bankKana
+関西みらい銀行,カンサイミライギンコウ,0159,assets/bankpay_bank_logo/0159-kansaimirai.png,bankpay,,,22,カ行,bankKana
+京都銀行,キョウトギンコウ,0158,assets/bankpay_bank_logo/0158-kyoto.png,bankpay,,,25,カ行,bankKana
+熊本銀行,クマモトギンコウ,0587,assets/bank_logo/0587-kumamoto.png,ginkopay,,,30,カ行,bankKana
+群馬銀行,グンマギンコウ,0128,assets/bankpay_bank_logo/0128-gunma.png,bankpay,2021-11-15 11:00:00,,32,カ行,bankKana
+埼玉りそな銀行,サイタマリソナギンコウ,0017,assets/bankpay_bank_logo/0017-saitamaresona.png,bankpay,,,39,サ行,bankKana
+三十三銀行,サンジュウサンギンコウ,0154,assets/bankpay_bank_logo/0154-33bank.png,bankpay,2022-03-22 13:00:00,,41,サ行,bankKana
+静岡銀行,シズオカギンコウ,0149,assets/bankpay_bank_logo/0149-shizuoka.png,bankpay,2022-03-22 13:00:00,,44,サ行,bankKana
+十八親和銀行,ジュウハチシンワギンコウ,0181,assets/bank_logo/0181-jyuhachishinwa.png,ginkopay,,,48,サ行,bankKana
+十六銀行,ジュウロクギンコウ,0153,assets/bankpay_bank_logo/0153-juroku.png,bankpay,,,49,サ行,bankKana
+常陽銀行,ジョウヨウギンコウ,0130,assets/bankpay_bank_logo/0130-joyo.png,bankpay,2022-03-22 13:00:00,,50,サ行,bankKana
+千葉興業銀行,チバコウギョウギンコウ,0135,assets/bankpay_bank_logo/0135-chibakogyo.png,bankpay,2021-11-15 11:00:00,,61,タ行,bankKana
+東和銀行,トウワギンコウ,0516,assets/bankpay_bank_logo/0516-towa.png,bankpay,2022-03-22 13:00:00,,68,タ行,bankKana
+徳島大正銀行,トクシマタイショウギンコウ,0572,assets/bankpay_bank_logo/0572-tokushimataisho.png,bankpay,2021-11-15 11:00:00,,69,タ行,bankKana
+長野銀行,ナガノギンコウ,0533,assets/bankpay_bank_logo/0533-nagano.png,bankpay,,,75,ナ行,bankKana
+西日本シティ銀行,ニシニホンシティギンコウ,0190,assets/bankpay_bank_logo/0190-nc.png,bankpay,,,82,ナ行,bankKana
+八十二銀行,ハチジュウニギンコウ,0143,assets/bankpay_bank_logo/0143-hachijuni.png,bankpay,2021-11-15 11:00:00,,84,ハ行,bankKana
+百五銀行,ヒャクゴギンコウ,0155,assets/bankpay_bank_logo/0155-hyakugo.png,bankpay,,,87,ハ行,bankKana
+広島銀行,ヒロシマギンコウ,0169,assets/bank_logo/0169-hiroshima.png,ginkopay,,,89,ハ行,bankKana
+福岡銀行,フクオカギンコウ,0177,assets/bank_logo/0177-fukuoka.png,ginkopay,,,92,ハ行,bankKana
+福島銀行,フクシマギンコウ,0513,assets/bankpay_bank_logo/0513-fukushima.png,bankpay,,,94,ハ行,bankKana
+北陸銀行,ホクリクギンコウ,0144,assets/bank_logo/0144-hokuriku.png,ginkopay,,,97,ハ行,bankKana
+北海道銀行,ホッカイドウギンコウ,0116,assets/bank_logo/0116-hokkaido.png,ginkopay,,,99,ハ行,bankKana
+宮崎太陽銀行,ミヤザキタイヨウギンコウ,0591,assets/bankpay_bank_logo/0591-miyazakitaiyo.png,bankpay,2021-11-15 11:00:00,,104,マ行,bankKana
+横浜銀行,ヨコハマギンコウ,0138,assets/bank_logo/0138-yokohama.png,ginkopay,2021-11-15 11:00:00,,109,ヤ行,bankKana
+りそな銀行,リソナギンコウ,0010,assets/bankpay_bank_logo/0010-resona.png,bankpay,,,110,ラ行,bankKana
+愛知県中央信用組合,アイチケンチュウオウシンヨウクミアイ,2451,,bankpay,2022-03-22 13:00:00,,1,ア行,labourBankAndCreditUnionKana
+あかぎ信用組合,アカギシンヨウクミアイ,2143,,bankpay,2022-03-22 13:00:00,,2,ア行,labourBankAndCreditUnionKana
+秋田県信用組合,アキタケンシンヨウクミアイ,2075,,bankpay,2022-03-22 13:00:00,,3,ア行,labourBankAndCreditUnionKana
+イオ信用組合,イオシンヨウクミアイ,2471,,bankpay,2022-03-22 13:00:00,,6,ア行,labourBankAndCreditUnionKana
+石巻商工信用組合,イシノマキショウコウシンヨウクミアイ,2061,,bankpay,2022-03-22 13:00:00,,7,ア行,labourBankAndCreditUnionKana
+いわき信用組合,イワキシンヨウクミアイ,2092,,bankpay,2022-03-22 13:00:00,,9,ア行,labourBankAndCreditUnionKana
+大分県信用組合,オオイタケンシンヨウクミアイ,2870,,bankpay,2022-03-22 13:00:00,,12,ア行,labourBankAndCreditUnionKana
+沖縄県労働金庫,オキナワケンロウドウキンコ,2997,,bankpay,2021-11-15 11:00:00,,15,ア行,labourBankAndCreditUnionKana
+小田原第一信用組合,オダワラダイイチシンヨウクミアイ,2315,,bankpay,2022-03-22 13:00:00,,16,ア行,labourBankAndCreditUnionKana
+香川県信用組合,カガワケンシンヨウクミアイ,2721,,bankpay,2022-03-22 13:00:00,,17,カ行,labourBankAndCreditUnionKana
+鹿児島興業信用組合,カゴシマコウギョウシンヨウクミアイ,2890,,bankpay,2022-03-22 13:00:00,,18,カ行,labourBankAndCreditUnionKana
+笠岡信用組合,カサオカシンヨウクミアイ,2674,,bankpay,2022-03-22 13:00:00,,19,カ行,labourBankAndCreditUnionKana
+神奈川県歯科医師信用組合,カナガワケンシカイシシンヨウクミアイ,2305,,bankpay,2022-03-22 13:00:00,,20,カ行,labourBankAndCreditUnionKana
+金沢中央信用組合,カナザワチュウオウシンヨウクミアイ,2411,,bankpay,2022-03-22 13:00:00,,21,カ行,labourBankAndCreditUnionKana
+九州労働金庫,キュウシュウロウドウキンコ,2990,,bankpay,2021-11-15 11:00:00,,23,カ行,labourBankAndCreditUnionKana
+協栄信用組合,キョウエイシンヨウクミアイ,2360,,bankpay,2022-03-22 13:00:00,,24,カ行,labourBankAndCreditUnionKana
+共立信用組合,キョウリツシンヨウクミアイ,2241,,bankpay,2022-03-22 13:00:00,,26,カ行,labourBankAndCreditUnionKana
+近畿労働金庫,キンキロウドウキンコ,2978,,bankpay,2021-11-15 11:00:00,,27,カ行,labourBankAndCreditUnionKana
+岐阜商工信用組合,ギフショウコウシンヨウクミアイ,2470,,bankpay,2022-03-22 13:00:00,,28,カ行,labourBankAndCreditUnionKana
+熊谷商工信用組合,クマガヤショウコウシンヨウクミアイ,2165,,bankpay,2022-03-22 13:00:00,,29,カ行,labourBankAndCreditUnionKana
+熊本県信用組合,クマモトケンシンヨウクミアイ,2845,,bankpay,2022-03-22 13:00:00,,31,カ行,labourBankAndCreditUnionKana
+群馬県信用組合,グンマケンシンヨウクミアイ,2146,,bankpay,2022-03-22 13:00:00,,33,カ行,labourBankAndCreditUnionKana
+ぐんまみらい信用組合,グンマミライシンヨウクミアイ,2149,,bankpay,2022-03-22 13:00:00,,34,カ行,labourBankAndCreditUnionKana
+京滋信用組合,ケイジシンヨウクミアイ,2526,,bankpay,2022-03-22 13:00:00,,35,カ行,labourBankAndCreditUnionKana
+江東信用組合,コウトウシンヨウクミアイ,2229,,bankpay,2022-03-22 13:00:00,,36,カ行,labourBankAndCreditUnionKana
+西海みずき信用組合,サイカイミズキシンヨウクミアイ,2825,,bankpay,2022-03-22 13:00:00,,37,サ行,labourBankAndCreditUnionKana
+埼玉信用組合,サイタマシンヨウクミアイ,2167,,bankpay,2022-03-22 13:00:00,,38,サ行,labourBankAndCreditUnionKana
+佐賀東信用組合,サガヒガシシンヨウクミアイ,2803,,bankpay,2022-03-22 13:00:00,,40,サ行,labourBankAndCreditUnionKana
+滋賀県信用組合,シガケンシンヨウクミアイ,2505,,bankpay,2022-03-22 13:00:00,,42,サ行,labourBankAndCreditUnionKana
+四国労働金庫,シコクロウドウキンコ,2987,,bankpay,2021-11-15 11:00:00,,43,サ行,labourBankAndCreditUnionKana
+静岡県労働金庫,シズオカケンロウドウキンコ,2968,,bankpay,2021-11-15 11:00:00,,45,サ行,labourBankAndCreditUnionKana
+島根益田信用組合,シマネマスダシンヨウクミアイ,2661,,bankpay,2022-03-22 13:00:00,,46,サ行,labourBankAndCreditUnionKana
+信用組合愛知商銀,シンヨウクミアイアイチショウギン,2442,,bankpay,2022-03-22 13:00:00,,47,サ行,labourBankAndCreditUnionKana
+成協信用組合,セイキョウシンヨウクミアイ,2541,,bankpay,2022-03-22 13:00:00,,51,サ行,labourBankAndCreditUnionKana
+青和信用組合,セイワシンヨウクミアイ,2231,,bankpay,2022-03-22 13:00:00,,52,サ行,labourBankAndCreditUnionKana
+仙北信用組合,センポクシンヨウクミアイ,2063,,bankpay,2022-03-22 13:00:00,,53,サ行,labourBankAndCreditUnionKana
+全東栄信用組合,ゼントウエイシンヨウクミアイ,2202,,bankpay,2022-03-22 13:00:00,,54,サ行,labourBankAndCreditUnionKana
+相愛信用組合,ソウアイシンヨウクミアイ,2318,,bankpay,2022-03-22 13:00:00,,55,サ行,labourBankAndCreditUnionKana
+相双五城信用組合,ソウソウゴジョウシンヨウクミアイ,2095,,bankpay,2022-03-22 13:00:00,,56,サ行,labourBankAndCreditUnionKana
+第一勧業信用組合,ダイイチカンギョウシンヨウクミアイ,2254,,bankpay,2022-03-22 13:00:00,,57,タ行,labourBankAndCreditUnionKana
+大東京信用組合,ダイトウキョウシンヨウクミアイ,2248,,bankpay,2022-03-22 13:00:00,,58,タ行,labourBankAndCreditUnionKana
+大同信用組合,ダイドウシンヨウクミアイ,2540,,bankpay,2022-03-22 13:00:00,,59,タ行,labourBankAndCreditUnionKana
+淡陽信用組合,ダンヨウシンヨウクミアイ,2616,,bankpay,2022-03-22 13:00:00,,60,タ行,labourBankAndCreditUnionKana
+中央労働金庫,チュウオウロウドウキンコ,2963,,bankpay,2021-11-15 11:00:00,,62,タ行,labourBankAndCreditUnionKana
+中国労働金庫,チュウゴクロウドウキンコ,2984,,bankpay,2021-11-15 11:00:00,,63,タ行,labourBankAndCreditUnionKana
+銚子商工信用組合,チョウシショウコウシンヨウクミアイ,2184,,bankpay,2022-03-22 13:00:00,,64,タ行,labourBankAndCreditUnionKana
+都留信用組合,ツルシンヨウクミアイ,2378,,bankpay,2022-03-22 13:00:00,,65,タ行,labourBankAndCreditUnionKana
+東海労働金庫,トウカイロウドウキンコ,2972,,bankpay,2021-11-15 11:00:00,,66,タ行,labourBankAndCreditUnionKana
+東北労働金庫,トウホクロウドウキンコ,2954,,bankpay,2021-11-15 11:00:00,,67,タ行,labourBankAndCreditUnionKana
+土佐信用組合,トサシンヨウクミアイ,2740,,bankpay,2022-03-22 13:00:00,,70,タ行,labourBankAndCreditUnionKana
+富山県信用組合,トヤマケンシンヨウクミアイ,2404,,bankpay,2022-03-22 13:00:00,,71,タ行,labourBankAndCreditUnionKana
+豊橋商工信用組合,トヨハシショウコウシンヨウクミアイ,2448,,bankpay,2022-03-22 13:00:00,,72,タ行,labourBankAndCreditUnionKana
+中ノ郷信用組合,ナカノゴウシンヨウクミアイ,2235,,bankpay,2022-03-22 13:00:00,,73,ナ行,labourBankAndCreditUnionKana
+長崎三菱信用組合,ナガサキミツビシシンヨウクミアイ,2820,,bankpay,2022-03-22 13:00:00,,74,ナ行,labourBankAndCreditUnionKana
+長野県信用組合,ナガノケンシンヨウクミアイ,2390,,bankpay,2022-03-22 13:00:00,,76,ナ行,labourBankAndCreditUnionKana
+長野県労働金庫,ナガノケンロウドウキンコ,2966,,bankpay,2021-11-15 11:00:00,,77,ナ行,labourBankAndCreditUnionKana
+那須信用組合,ナスシンヨウクミアイ,2125,,bankpay,2022-03-22 13:00:00,,78,ナ行,labourBankAndCreditUnionKana
+新潟縣信用組合,ニイガタケンシンヨウクミアイ,2351,,bankpay,2022-03-22 13:00:00,,79,ナ行,labourBankAndCreditUnionKana
+新潟県労働金庫,ニイガタケンロウドウキンコ,2965,,bankpay,2021-11-15 11:00:00,,80,ナ行,labourBankAndCreditUnionKana
+新潟大栄信用組合,ニイガタダイエイシンヨウクミアイ,2363,,bankpay,2022-03-22 13:00:00,,81,ナ行,labourBankAndCreditUnionKana
+のぞみ信用組合,ノゾミシンヨウクミアイ,2549,,bankpay,2022-03-22 13:00:00,,83,ナ行,labourBankAndCreditUnionKana
+はばたき信用組合,ハバタキシンヨウクミアイ,2357,,bankpay,2022-03-22 13:00:00,,85,ハ行,labourBankAndCreditUnionKana
+飛騨信用組合,ヒダシンヨウクミアイ,2476,,bankpay,2022-03-22 13:00:00,,86,ハ行,labourBankAndCreditUnionKana
+兵庫県信用組合,ヒョウゴケンシンヨウクミアイ,2606,,bankpay,2022-03-22 13:00:00,,88,ハ行,labourBankAndCreditUnionKana
+広島県信用組合,ヒロシマケンシンヨウクミアイ,2681,,bankpay,2022-03-22 13:00:00,,90,ハ行,labourBankAndCreditUnionKana
+広島市信用組合,ヒロシマシシンヨウクミアイ,2680,,bankpay,2022-03-22 13:00:00,,91,ハ行,labourBankAndCreditUnionKana
+福岡県信用組合,フクオカケンシンヨウクミアイ,2773,,bankpay,2022-03-22 13:00:00,,93,ハ行,labourBankAndCreditUnionKana
+古川信用組合,フルカワシンヨウクミアイ,2062,,bankpay,2022-03-22 13:00:00,,95,ハ行,labourBankAndCreditUnionKana
+北央信用組合,ホクオウシンヨウクミアイ,2011,,bankpay,2022-03-22 13:00:00,,96,ハ行,labourBankAndCreditUnionKana
+北陸労働金庫,ホクリクロウドウキンコ,2970,,bankpay,2021-11-15 11:00:00,,98,ハ行,labourBankAndCreditUnionKana
+北海道労働金庫,ホッカイドウロウドウキンコ,2951,,bankpay,2021-11-15 11:00:00,,100,ハ行,labourBankAndCreditUnionKana
+房総信用組合,ボウソウシンヨウクミアイ,2180,,bankpay,2022-03-22 13:00:00,,101,ハ行,labourBankAndCreditUnionKana
+巻信用組合,マキシンヨウクミアイ,2362,,bankpay,2022-03-22 13:00:00,,102,マ行,labourBankAndCreditUnionKana
+益田信用組合,マシタシンヨウクミアイ,2481,,bankpay,2022-03-22 13:00:00,,103,マ行,labourBankAndCreditUnionKana
+真岡信用組合,モオカシンヨウクミアイ,2122,,bankpay,2022-03-22 13:00:00,,105,マ行,labourBankAndCreditUnionKana
+山形第一信用組合,ヤマガタダイイチシンヨウクミアイ,2085,,bankpay,2022-03-22 13:00:00,,106,ヤ行,labourBankAndCreditUnionKana
+山形中央信用組合,ヤマガタチュウオウシンヨウクミアイ,2084,,bankpay,2022-03-22 13:00:00,,107,ヤ行,labourBankAndCreditUnionKana
+山口県信用組合,ヤマグチケンシンヨウクミアイ,2703,,bankpay,2022-03-22 13:00:00,,108,ヤ行,labourBankAndCreditUnionKana
+真岡信用組合,モオカシンヨウクミアイ,2122,,bankpay,2022-03-22 13:00:00,,105,マ行,creditUnionKana
+山形第一信用組合,ヤマガタダイイチシンヨウクミアイ,2085,,bankpay,2022-03-22 13:00:00,,106,ヤ行,creditUnionKana
+山形中央信用組合,ヤマガタチュウオウシンヨウクミアイ,2084,,bankpay,2022-03-22 13:00:00,,107,ヤ行,creditUnionKana
+山口県信用組合,ヤマグチケンシンヨウクミアイ,2703,,bankpay,2022-03-22 13:00:00,,108,ヤ行,creditUnionKana
+房総信用組合,ボウソウシンヨウクミアイ,2180,,bankpay,2022-03-22 13:00:00,,101,ハ行,creditUnionKana
+巻信用組合,マキシンヨウクミアイ,2362,,bankpay,2022-03-22 13:00:00,,102,マ行,creditUnionKana
+益田信用組合,マシタシンヨウクミアイ,2481,,bankpay,2022-03-22 13:00:00,,103,マ行,creditUnionKana
+愛知県中央信用組合,アイチケンチュウオウシンヨウクミアイ,2451,,bankpay,2022-03-22 13:00:00,,1,ア行,creditUnionKana
+あかぎ信用組合,アカギシンヨウクミアイ,2143,,bankpay,2022-03-22 13:00:00,,2,ア行,creditUnionKana
+秋田県信用組合,アキタケンシンヨウクミアイ,2075,,bankpay,2022-03-22 13:00:00,,3,ア行,creditUnionKana
+イオ信用組合,イオシンヨウクミアイ,2471,,bankpay,2022-03-22 13:00:00,,6,ア行,creditUnionKana
+石巻商工信用組合,イシノマキショウコウシンヨウクミアイ,2061,,bankpay,2022-03-22 13:00:00,,7,ア行,creditUnionKana
+いわき信用組合,イワキシンヨウクミアイ,2092,,bankpay,2022-03-22 13:00:00,,9,ア行,creditUnionKana
+大分県信用組合,オオイタケンシンヨウクミアイ,2870,,bankpay,2022-03-22 13:00:00,,12,ア行,creditUnionKana
+小田原第一信用組合,オダワラダイイチシンヨウクミアイ,2315,,bankpay,2022-03-22 13:00:00,,16,ア行,creditUnionKana
+香川県信用組合,カガワケンシンヨウクミアイ,2721,,bankpay,2022-03-22 13:00:00,,17,カ行,creditUnionKana
+鹿児島興業信用組合,カゴシマコウギョウシンヨウクミアイ,2890,,bankpay,2022-03-22 13:00:00,,18,カ行,creditUnionKana
+笠岡信用組合,カサオカシンヨウクミアイ,2674,,bankpay,2022-03-22 13:00:00,,19,カ行,creditUnionKana
+神奈川県歯科医師信用組合,カナガワケンシカイシシンヨウクミアイ,2305,,bankpay,2022-03-22 13:00:00,,20,カ行,creditUnionKana
+金沢中央信用組合,カナザワチュウオウシンヨウクミアイ,2411,,bankpay,2022-03-22 13:00:00,,21,カ行,creditUnionKana
+協栄信用組合,キョウエイシンヨウクミアイ,2360,,bankpay,2022-03-22 13:00:00,,24,カ行,creditUnionKana
+共立信用組合,キョウリツシンヨウクミアイ,2241,,bankpay,2022-03-22 13:00:00,,26,カ行,creditUnionKana
+岐阜商工信用組合,ギフショウコウシンヨウクミアイ,2470,,bankpay,2022-03-22 13:00:00,,28,カ行,creditUnionKana
+熊谷商工信用組合,クマガヤショウコウシンヨウクミアイ,2165,,bankpay,2022-03-22 13:00:00,,29,カ行,creditUnionKana
+熊本県信用組合,クマモトケンシンヨウクミアイ,2845,,bankpay,2022-03-22 13:00:00,,31,カ行,creditUnionKana
+群馬県信用組合,グンマケンシンヨウクミアイ,2146,,bankpay,2022-03-22 13:00:00,,33,カ行,creditUnionKana
+ぐんまみらい信用組合,グンマミライシンヨウクミアイ,2149,,bankpay,2022-03-22 13:00:00,,34,カ行,creditUnionKana
+京滋信用組合,ケイジシンヨウクミアイ,2526,,bankpay,2022-03-22 13:00:00,,35,カ行,creditUnionKana
+江東信用組合,コウトウシンヨウクミアイ,2229,,bankpay,2022-03-22 13:00:00,,36,カ行,creditUnionKana
+西海みずき信用組合,サイカイミズキシンヨウクミアイ,2825,,bankpay,2022-03-22 13:00:00,,37,サ行,creditUnionKana
+埼玉信用組合,サイタマシンヨウクミアイ,2167,,bankpay,2022-03-22 13:00:00,,38,サ行,creditUnionKana
+佐賀東信用組合,サガヒガシシンヨウクミアイ,2803,,bankpay,2022-03-22 13:00:00,,40,サ行,creditUnionKana
+滋賀県信用組合,シガケンシンヨウクミアイ,2505,,bankpay,2022-03-22 13:00:00,,42,サ行,creditUnionKana
+島根益田信用組合,シマネマスダシンヨウクミアイ,2661,,bankpay,2022-03-22 13:00:00,,46,サ行,creditUnionKana
+信用組合愛知商銀,シンヨウクミアイアイチショウギン,2442,,bankpay,2022-03-22 13:00:00,,47,サ行,creditUnionKana
+成協信用組合,セイキョウシンヨウクミアイ,2541,,bankpay,2022-03-22 13:00:00,,51,サ行,creditUnionKana
+青和信用組合,セイワシンヨウクミアイ,2231,,bankpay,2022-03-22 13:00:00,,52,サ行,creditUnionKana
+仙北信用組合,センポクシンヨウクミアイ,2063,,bankpay,2022-03-22 13:00:00,,53,サ行,creditUnionKana
+全東栄信用組合,ゼントウエイシンヨウクミアイ,2202,,bankpay,2022-03-22 13:00:00,,54,サ行,creditUnionKana
+相愛信用組合,ソウアイシンヨウクミアイ,2318,,bankpay,2022-03-22 13:00:00,,55,サ行,creditUnionKana
+相双五城信用組合,ソウソウゴジョウシンヨウクミアイ,2095,,bankpay,2022-03-22 13:00:00,,56,サ行,creditUnionKana
+第一勧業信用組合,ダイイチカンギョウシンヨウクミアイ,2254,,bankpay,2022-03-22 13:00:00,,57,タ行,creditUnionKana
+大東京信用組合,ダイトウキョウシンヨウクミアイ,2248,,bankpay,2022-03-22 13:00:00,,58,タ行,creditUnionKana
+大同信用組合,ダイドウシンヨウクミアイ,2540,,bankpay,2022-03-22 13:00:00,,59,タ行,creditUnionKana
+淡陽信用組合,ダンヨウシンヨウクミアイ,2616,,bankpay,2022-03-22 13:00:00,,60,タ行,creditUnionKana
+銚子商工信用組合,チョウシショウコウシンヨウクミアイ,2184,,bankpay,2022-03-22 13:00:00,,64,タ行,creditUnionKana
+都留信用組合,ツルシンヨウクミアイ,2378,,bankpay,2022-03-22 13:00:00,,65,タ行,creditUnionKana
+土佐信用組合,トサシンヨウクミアイ,2740,,bankpay,2022-03-22 13:00:00,,70,タ行,creditUnionKana
+富山県信用組合,トヤマケンシンヨウクミアイ,2404,,bankpay,2022-03-22 13:00:00,,71,タ行,creditUnionKana
+豊橋商工信用組合,トヨハシショウコウシンヨウクミアイ,2448,,bankpay,2022-03-22 13:00:00,,72,タ行,creditUnionKana
+中ノ郷信用組合,ナカノゴウシンヨウクミアイ,2235,,bankpay,2022-03-22 13:00:00,,73,ナ行,creditUnionKana
+長崎三菱信用組合,ナガサキミツビシシンヨウクミアイ,2820,,bankpay,2022-03-22 13:00:00,,74,ナ行,creditUnionKana
+長野県信用組合,ナガノケンシンヨウクミアイ,2390,,bankpay,2022-03-22 13:00:00,,76,ナ行,creditUnionKana
+那須信用組合,ナスシンヨウクミアイ,2125,,bankpay,2022-03-22 13:00:00,,78,ナ行,creditUnionKana
+新潟縣信用組合,ニイガタケンシンヨウクミアイ,2351,,bankpay,2022-03-22 13:00:00,,79,ナ行,creditUnionKana
+新潟大栄信用組合,ニイガタダイエイシンヨウクミアイ,2363,,bankpay,2022-03-22 13:00:00,,81,ナ行,creditUnionKana
+のぞみ信用組合,ノゾミシンヨウクミアイ,2549,,bankpay,2022-03-22 13:00:00,,83,ナ行,creditUnionKana
+はばたき信用組合,ハバタキシンヨウクミアイ,2357,,bankpay,2022-03-22 13:00:00,,85,ハ行,creditUnionKana
+飛騨信用組合,ヒダシンヨウクミアイ,2476,,bankpay,2022-03-22 13:00:00,,86,ハ行,creditUnionKana
+兵庫県信用組合,ヒョウゴケンシンヨウクミアイ,2606,,bankpay,2022-03-22 13:00:00,,88,ハ行,creditUnionKana
+広島県信用組合,ヒロシマケンシンヨウクミアイ,2681,,bankpay,2022-03-22 13:00:00,,90,ハ行,creditUnionKana
+広島市信用組合,ヒロシマシシンヨウクミアイ,2680,,bankpay,2022-03-22 13:00:00,,91,ハ行,creditUnionKana
+福岡県信用組合,フクオカケンシンヨウクミアイ,2773,,bankpay,2022-03-22 13:00:00,,93,ハ行,creditUnionKana
+古川信用組合,フルカワシンヨウクミアイ,2062,,bankpay,2022-03-22 13:00:00,,95,ハ行,creditUnionKana
+北央信用組合,ホクオウシンヨウクミアイ,2011,,bankpay,2022-03-22 13:00:00,,96,ハ行,creditUnionKana
+沖縄県労働金庫,オキナワケンロウドウキンコ,2997,,bankpay,2021-11-15 11:00:00,,15,ア行,labourBankKana
+九州労働金庫,キュウシュウロウドウキンコ,2990,,bankpay,2021-11-15 11:00:00,,23,カ行,labourBankKana
+近畿労働金庫,キンキロウドウキンコ,2978,,bankpay,2021-11-15 11:00:00,,27,カ行,labourBankKana
+四国労働金庫,シコクロウドウキンコ,2987,,bankpay,2021-11-15 11:00:00,,43,サ行,labourBankKana
+静岡県労働金庫,シズオカケンロウドウキンコ,2968,,bankpay,2021-11-15 11:00:00,,45,サ行,labourBankKana
+中央労働金庫,チュウオウロウドウキンコ,2963,,bankpay,2021-11-15 11:00:00,,62,タ行,labourBankKana
+中国労働金庫,チュウゴクロウドウキンコ,2984,,bankpay,2021-11-15 11:00:00,,63,タ行,labourBankKana
+東海労働金庫,トウカイロウドウキンコ,2972,,bankpay,2021-11-15 11:00:00,,66,タ行,labourBankKana
+東北労働金庫,トウホクロウドウキンコ,2954,,bankpay,2021-11-15 11:00:00,,67,タ行,labourBankKana
+長野県労働金庫,ナガノケンロウドウキンコ,2966,,bankpay,2021-11-15 11:00:00,,77,ナ行,labourBankKana
+新潟県労働金庫,ニイガタケンロウドウキンコ,2965,,bankpay,2021-11-15 11:00:00,,80,ナ行,labourBankKana
+北陸労働金庫,ホクリクロウドウキンコ,2970,,bankpay,2021-11-15 11:00:00,,98,ハ行,labourBankKana
+北海道労働金庫,ホッカイドウロウドウキンコ,2951,,bankpay,2021-11-15 11:00:00,,100,ハ行,labourBankKana
